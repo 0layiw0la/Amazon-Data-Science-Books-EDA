@@ -2,10 +2,12 @@
 ## Objectives
 <p>We perform eda on a data containing data science books on amazon names prices ratings weight etc. This was more of a for fun project that answers one question. <strong>What are the best books for data scientists on Amazon?</strong>. As someone who prefers books to courses <strong>(yes, it's odd, i know)</strong>, when i came across this dataset on kaggle i knew i had to try it out.</p>
 Ok i may have answered more than one question, i couldn't resist.
+
 ## Table of content
 * How much do books cost (effect of size on price).
 * WHat are the best books for python.
 * What are the books ML books.
+  
 # Insights
 ## How much do data science books cost on average?
 * The average price of the books on amazon is : **$46.7**
